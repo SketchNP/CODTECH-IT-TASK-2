@@ -22,6 +22,9 @@
 - Chatfuel or ManyChat: Platforms for building and deploying chatbots without needing coding skills.
 - Facebook Page (Optional): The chatbot can be connected to a Facebook page for interaction.
 
+![image](https://github.com/user-attachments/assets/a4bf9b11-ab08-4138-988d-a0b7b1dc570e)
+
+
 ![image](https://github.com/user-attachments/assets/9d4d3f9f-a948-4ce0-88c6-ec0b05146dd2)
 
 ![image](https://github.com/user-attachments/assets/548b2fde-7212-4feb-b052-85cae2349f62)
